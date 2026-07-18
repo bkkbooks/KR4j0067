@@ -32,17 +32,17 @@ assets:
   - {seq: 9, filename: KR4j0067_009.yaml, hash: 'sha256:cb2e6f67b12655919559781e89fafde654fe60b72a522188220f7017ad58e774'}
   - {seq: 10, filename: KR4j0067_010.yaml, hash: 'sha256:e06109b01ee38193a597389cf6bf5fea2f01f4c799c356537ac5aba3ca8b8951'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0067_000.markers.yaml, hash: 'sha256:3fb166f62134f3670634a2040754ca18d2a02cfbb25caad9562bfeb2e75634d3'}
-  - {seq: 1, role: markers, filename: assets/KR4j0067_001.markers.yaml, hash: 'sha256:bcd7b6b99254594fc7edb5ee873299f1297a9c9a95c9f0dba9c83d9e034440ad'}
-  - {seq: 2, role: markers, filename: assets/KR4j0067_002.markers.yaml, hash: 'sha256:5ef871c60d0986eaa6ffb02d4fa558589a32309df2eab895ec2138796ddd4417'}
-  - {seq: 3, role: markers, filename: assets/KR4j0067_003.markers.yaml, hash: 'sha256:6dbe255a1baea7e5bb65c0958dca76e772a5c0f8784718e80141dfab48f0bd86'}
-  - {seq: 4, role: markers, filename: assets/KR4j0067_004.markers.yaml, hash: 'sha256:9b7514da94bd2bf076b2e0513a81d8b7c5f82a040489a9062e12972d143524b0'}
-  - {seq: 5, role: markers, filename: assets/KR4j0067_005.markers.yaml, hash: 'sha256:1e9613ad93ab41b24962041d207a2117db2574a66cc9b1b2a63426632a87b747'}
-  - {seq: 6, role: markers, filename: assets/KR4j0067_006.markers.yaml, hash: 'sha256:22f5984b1be234a2c8876b087607d89da1321bc9541087be6a6780b859e027e5'}
-  - {seq: 7, role: markers, filename: assets/KR4j0067_007.markers.yaml, hash: 'sha256:7459223733a58d3b49ac592ff473aa3de8e926a8dcff2db4a246b2d0434bcfef'}
-  - {seq: 8, role: markers, filename: assets/KR4j0067_008.markers.yaml, hash: 'sha256:798aa3d48145a1f30e41ca77f98a5889d8e9e75fd71c34fd56f9f186ab92fcad'}
-  - {seq: 9, role: markers, filename: assets/KR4j0067_009.markers.yaml, hash: 'sha256:80f5a31b2a6b95a8d4d34c9e30b513214aa7088a9bd55f33a2bd2ca00df99939'}
-  - {seq: 10, role: markers, filename: assets/KR4j0067_010.markers.yaml, hash: 'sha256:7525e59e7e9e206b80aea8c0d6f4c947cad7bb76aad75e5aef107a52b4e10a47'}
+  - {seq: 0, role: markers, filename: assets/KR4j0067_000.markers.yaml, hash: 'sha256:5cae23cd72e0bbb607b3d8447aca1de6fd3b26804d7ba0a5181cec8f2f97a734'}
+  - {seq: 1, role: markers, filename: assets/KR4j0067_001.markers.yaml, hash: 'sha256:ae52a25c3a0ab6e359550eca4f8aec86be651ce3f0cc0aae5e0885e4ba7679f2'}
+  - {seq: 2, role: markers, filename: assets/KR4j0067_002.markers.yaml, hash: 'sha256:4b4c9fed23ce32667a36d969ca7fb882dc292a8eb9735484df1a4404d8964a1e'}
+  - {seq: 3, role: markers, filename: assets/KR4j0067_003.markers.yaml, hash: 'sha256:7f65ee79118800390f6eb98a778417b80055cabf84e0d5ac5a50d425c3af1870'}
+  - {seq: 4, role: markers, filename: assets/KR4j0067_004.markers.yaml, hash: 'sha256:a4b7e0a359b70b4fb2aa7698527585b2226b16a995ebb2d7eedb15c0497d76da'}
+  - {seq: 5, role: markers, filename: assets/KR4j0067_005.markers.yaml, hash: 'sha256:e9efea480ddb5ee0bc0cc9614b4f2fc6d8331460824b3724e85f9da9b30bf32b'}
+  - {seq: 6, role: markers, filename: assets/KR4j0067_006.markers.yaml, hash: 'sha256:9c637d1eb50710de92052a973b8146af80273905d326322c839f4970a5c5bb53'}
+  - {seq: 7, role: markers, filename: assets/KR4j0067_007.markers.yaml, hash: 'sha256:54362db1b873f67d9c0f501fc788bb926b6f6474cf1021536d3f0aa4cb475d22'}
+  - {seq: 8, role: markers, filename: assets/KR4j0067_008.markers.yaml, hash: 'sha256:476f1677ec7fbd3af47e89f565e605ff2cb9b2089d5f2d36cfe5dc99fdd37abf'}
+  - {seq: 9, role: markers, filename: assets/KR4j0067_009.markers.yaml, hash: 'sha256:f8dba9359615f3a7d27525723df148de565cf65fe0d65b4513eb05567bbd2487'}
+  - {seq: 10, role: markers, filename: assets/KR4j0067_010.markers.yaml, hash: 'sha256:d2cc4b1be9b425854271424ee283adbb9c288d31cdc133a6d90d7d6d4b06f7f8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -154,7 +154,7 @@ table_of_contents:
   label: juan 010
   type: section
   level: 1
-hash: sha256:f3eba7487a049c0724a7f7431ce4e189684e6c3e61d930aec036725bd2e35a64
+hash: sha256:c7845e9992aae2d37ebcc04ee0048864234b061405df0f562e678645060eb9e2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
